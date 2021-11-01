@@ -1,6 +1,6 @@
 This is Andres Perez's shark attack data cleaning and visualization project.
 
-![portada](https://github.com/Andrestart/-data_cleaning_Andres_Perez/portada.jpg)
+![portada](https://github.com/Andrestart/-data_cleaning-Andres_Perez/blob/main/portada.jpg)
 This is the explanation of the project.
 If you open the file "1_data_cleaning.ipynb", you can start visualizing the project. You will need to have jupyter notebook installed, as well as the libraries specified in the first cell.
 
